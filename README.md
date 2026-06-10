@@ -8,7 +8,7 @@
 
 **First in Bastogne** to fabularna gra akcji 2D osadzona podczas zimowej ofensywy w Ardenach. Gracz obejmuje dowództwo nad słynnym czołgiem **Cobra King** i bierze udział w desperackiej drodze ku Bastogne, przejeżdza przez wiele miast i wsi oraz walczy z różnymi typami wrogów.
 
-Zostań dowódcą stalowej maszyny, przebijaj się przez zasypane śniegiem drogi, odpieraj niemieckie natarcia i wykorzystuj uzbrojenie czołgu do walki z piechotą, pojazdami oraz ostrzałem artyleryjskim. Gra łączy klimat retro pixel-artu z dynamiczną walką, sekwencjami fabularnymi, dialogami i kampanią prowadzącą przez kolejne etapy operacji.
+Zostań dowódcą opancerzonego Shermana Jumbo, przebijaj się przez zasypane śniegiem drogi, odpieraj niemieckie natarcia i wykorzystuj uzbrojenie czołgu do walki z piechotą, pojazdami oraz ostrzałem artyleryjskim. Gra łączy klimat retro pixel-artu z dynamiczną walką, sekwencjami fabularnymi, dialogami i kampanią przypominającą klimatem Kompanię Braci prowadzącą przez kolejne etapy operacji.
 
 ### Co Cię Czeka
 
