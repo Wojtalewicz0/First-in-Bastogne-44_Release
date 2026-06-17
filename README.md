@@ -17,8 +17,9 @@ Zostań dowódcą opancerzonego Shermana Jumbo, przebijaj się przez zasypane ś
 - walka z piechotą, pojazdami pancernymi i ostrzałem obszarowym,
 - główne działo, karabin maszynowy, efekty eksplozji i zniszczeń,
 - sceny fabularne, dialogi i przejścia między poziomami,
-- wybitne efekty audio wzbogacone dźwiękiem przestrzennym.
-- DLC do odblokowania w edycji *Deluxe* oraz możliwość przeniesienia postępu do chmury
+- wybitne efekty audio wzbogacone dźwiękiem przestrzennym,
+- materiały hisoryczne pozwalające zgłębić wiedzę o wydarzeniach przedstawianych w grze,
+- DLC do odblokowania w edycji *Deluxe* oraz możliwość przeniesienia postępu do chmury.
 
 ## Wymagania Sprzętowe
 
