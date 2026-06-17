@@ -41,7 +41,7 @@ Zostań dowódcą opancerzonego Shermana Jumbo, przebijaj się przez zasypane ś
 
 ## Przypisy 
 
-Gra została stworzona przez uczniów *Zespołu szkół ekonomicznych w Żarach* w ramach projektu szkolnego. 
+Gra została stworzona przez uczniów *Zespołu szkół ekonomicznych w Żarach* w ramach projektu szkolnego. <br>
 Twórcami są **Szymon Wojtkiewicz** oraz **Daniel Polus** z klasy 3TP.
 
 ## Okładka Limitowanego Wydania Fizycznego
