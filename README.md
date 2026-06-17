@@ -40,9 +40,10 @@ Zostań dowódcą opancerzonego Shermana Jumbo, przebijaj się przez zasypane ś
 4. Włącz grę i rozpocznij drogę do Bastogne.
 
 ## Przypisy 
-
-Gra została stworzona przez uczniów *Zespołu szkół ekonomicznych w Żarach* w ramach projektu szkolnego. <br>
-Twórcami są **Szymon Wojtkiewicz** oraz **Daniel Polus** z klasy 3TP.
+<p align="center">
+  Gra została stworzona przez uczniów *Zespołu szkół ekonomicznych w Żarach* w ramach projektu szkolnego. <br>
+  Twórcami są **Szymon Wojtkiewicz** oraz **Daniel Polus** z klasy 3TP.
+</p>
 
 ## Okładka Limitowanego Wydania Fizycznego
 
