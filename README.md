@@ -39,6 +39,11 @@ Zostań dowódcą opancerzonego Shermana Jumbo, przebijaj się przez zasypane ś
 3. Uruchom instalator i postępuj zgodnie z instrukcjami.
 4. Włącz grę i rozpocznij drogę do Bastogne.
 
+## Przypisy 
+
+Gra została stworzona przez uczniów *Zespołu szkół ekonomicznych w Żarach* w ramach projektu szkolnego. 
+Twórcami są **Szymon Wojtkiewicz** oraz **Daniel Polus** z klasy 3TP.
+
 ## Okładka Limitowanego Wydania Fizycznego
 
 <img src="header.png" alt="First in Bastogne" width="100%" />
