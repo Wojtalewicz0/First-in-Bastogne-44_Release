@@ -44,7 +44,8 @@ Zostań dowódcą opancerzonego Shermana Jumbo, przebijaj się przez zasypane ś
   Gra została stworzona przez uczniów <i></i>Zespołu szkół ekonomicznych w Żarach</i> w ramach projektu szkolnego. <br>
   Twórcami są <strong>Szymon Wojtkiewicz</strong> oraz <strong>Daniel Polus</strong> z klasy 3TP. <br>
   -> Strony twórców: <strong><a href="https://github.com/Wojtalewicz0" style="text-decoration: none;">Szymon Wojtkiewicz</a></strong> & <strong><a href="https://github.com/danio-tech" style="text-decoration: none;">Daniel Polus</a></strong> <- <br>
-  -> <a href="https://first-in-bastogne-page.vercel.app/" target="_blank">Strona internetowa gry</a> <-
+  -> <a href="https://first-in-bastogne-page.vercel.app/" target="_blank">Strona internetowa gry</a> <- <br>
+  -> <a href="https://zse.zary.pl/">Strona internetowa szkoły</a> <-
 </p>
 
 ## Okładka Limitowanego Wydania Fizycznego
